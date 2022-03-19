@@ -1,0 +1,16 @@
+2022.03.19, 08:37:15.0040 UTC -> Server Activity : Web server started
+2022.03.19, 08:37:15.0050 UTC -> Listening on port : 3000
+2022.03.19, 08:37:30.0281 UTC -> Server Activity : Get requested by priyanka
+2022.03.19, 08:37:35.0820 UTC -> Server Activity : Post requested, here is the name :Priyanka and lastname : Polagani
+2022.03.19, 08:37:42.0398 UTC -> Server Activity : Calculator has been requested
+2022.03.19, 08:37:42.0399 UTC -> Server Activity : The result for 10 + 5 = 15
+2022.03.19, 08:37:52.0456 UTC -> Server Activity : Calculator has been requested
+2022.03.19, 08:37:52.0460 UTC -> Server Activity : The result for 10 - 5 = 5
+2022.03.19, 08:37:59.0770 UTC -> Server Activity : Calculator has been requested
+2022.03.19, 08:37:59.0771 UTC -> Server Activity : The result for 10 * 5 = 50
+2022.03.19, 08:38:06.0437 UTC -> Server Activity : Calculator has been requested
+2022.03.19, 08:38:06.0440 UTC -> Server Activity : The result for 10 / 5 = 2
+2022.03.19, 08:38:18.0656 UTC -> Server Activity : Calculator has been requested
+2022.03.19, 08:38:18.0657 UTC -> Server Activity : The result for 10 % 5 = 0
+2022.03.19, 08:38:27.0416 UTC -> Server Activity : Calculator has been requested
+2022.03.19, 08:38:27.0419 UTC -> Server Activity : Allowed operators {+, -, *, /, %}
