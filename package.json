@@ -1,0 +1,13 @@
+{
+    "name": "web-server",
+    "version": "0.1.0",
+    "description": "Web server for SIT 737",
+    "dependencies": {
+        "body-parser": "*",
+        "express": "^4.17.3",
+        "log": "1.4.0",
+        "log-to-file": "^3.0.0"
+    },
+    "author": "Priyanka Polagani",
+    "license": "MIT"
+}
